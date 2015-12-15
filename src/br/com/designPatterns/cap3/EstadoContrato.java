@@ -1,4 +1,4 @@
-package br.com.designPattern.cap3;
+package br.com.designPatterns.cap3;
 
 public class EstadoContrato {
 
